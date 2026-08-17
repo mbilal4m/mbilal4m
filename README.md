@@ -1,68 +1,128 @@
-# Hi, I'm Muhammad Bilal 👋
+# Muhammad Bilal
 
-### Senior Odoo ERP Architect & Full-Stack Developer
+### Senior Odoo ERP Architect | Full-Stack Developer | DevOps
 
-Senior Odoo ERP Architect & Full-Stack Developer with **8+ years of experience** designing, developing, and implementing ERP solutions across Retail, Manufacturing, E-commerce, HR, and Construction.
+<p align="left">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</p>
 
-I have worked on **50+ Odoo projects**, including **15+ end-to-end ERP implementations**, covering the complete lifecycle from business requirements and system architecture to development, migration, deployment, and post-go-live support.
+**8+ years of experience · 50+ Odoo projects · 15+ end-to-end implementations**
 
-### 🚀 What I Do
+I’m a Senior Odoo ERP Architect and Full-Stack Developer focused on building, implementing, and scaling **Odoo ERP solutions**.
 
-* 🏢 Odoo ERP Architecture & Implementation
-* 🔧 Custom Odoo Module Development
-* ⚙️ Business Process Automation & Workflow Design
-* 🔄 Odoo Migration & Version Upgrades
-* 🗄️ PostgreSQL & Performance Optimization
-* 🚀 Production Deployment & Server Management
-* ☁️ Cloud Infrastructure & DevOps Operations
-* 🐳 Docker-based Application Deployment
-* 🔐 Linux, Nginx & Production Environment Management
+My experience covers the complete ERP lifecycle — from **requirements analysis and system architecture to development, migration, deployment, and production support**.
 
-### 🛠️ Technical Skills
-
-**ERP & Development**
-
-* Odoo v10–v19 Enterprise
-* Python
-* PostgreSQL
-* JavaScript / OWL
-* XML
-* REST APIs & Integrations
-
-**DevOps & Infrastructure**
-
-* Linux
-* Docker
-* Nginx
-* Git
-* GCP
-* DigitalOcean
-* Cloud Deployment & Server Management
-* SSL / Production Configuration
-
-### 📊 Experience Highlights
-
-* **50+** Odoo projects delivered
-* **15+** end-to-end ERP implementations
-* Complete ERP implementations delivered independently within **3–4 months**
-* Enterprise systems supporting **50+ active users**
-* Odoo migrations: **11 → 13, 13 → 15, 15 → 17**
-* Experience across multiple business domains and industries
-
-### 💼 Industries
-
-Retail • Manufacturing • E-commerce • HR • Construction
-
-### 🎯 My Approach
-
-I focus on building ERP systems that are practical, maintainable, and scalable. My work combines business understanding with technical implementation, allowing me to handle projects from initial requirements through development, infrastructure, deployment, and ongoing optimization.
-
-### 📫 Connect With Me
-
-* **LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/in/mbilal4m/)
-* **GitHub:** [@mbilal4m](https://github.com/mbilal4m)
-* **Open to:** Remote Odoo roles, consulting, and international opportunities
+Alongside Odoo development, I manage the infrastructure behind production systems, including **Linux servers, Docker, Nginx, GCP, DigitalOcean, and cloud deployments**.
 
 ---
 
-⭐ Feel free to explore my repositories and projects.
+## What I Work With
+
+### Odoo & ERP
+
+`Odoo v10–v19 Enterprise` · `ERP Architecture` · `Implementation` · `Custom Modules` · `Automation` · `Integrations` · `Migration`
+
+### Development
+
+`Python` · `PostgreSQL` · `JavaScript` · `OWL` · `XML` · `REST APIs`
+
+### DevOps & Cloud
+
+`Linux` · `Docker` · `Nginx` · `Git` · `GCP` · `DigitalOcean` · `Cloud Deployment` · `Server Management`
+
+---
+
+## Highlights
+
+|                  |                                        |
+| ---------------- | -------------------------------------- |
+| 🚀 **50+**       | Odoo projects delivered                |
+| 🏗️ **15+**      | Full end-to-end ERP implementations    |
+| ⚡ **3–4 months** | Complete ERP implementations           |
+| 👥 **50+ users** | Enterprise systems implemented         |
+| 🔄 **v10–v19**   | Odoo Enterprise experience             |
+| ☁️ **Cloud**     | Production deployment & infrastructure |
+
+---
+
+## End-to-End ERP
+
+```text
+Requirements
+      ↓
+Business Analysis
+      ↓
+Architecture & Planning
+      ↓
+Odoo Configuration
+      ↓
+Custom Development
+      ↓
+Data Migration
+      ↓
+Testing & Optimization
+      ↓
+Deployment
+      ↓
+Go-Live & Support
+```
+
+I take ownership of the complete implementation rather than focusing only on development.
+
+---
+
+## Odoo Migration Experience
+
+```text
+Odoo 11  →  Odoo 13  →  Odoo 15  →  Odoo 17
+```
+
+Experienced in **version upgrades, custom module migration, data migration, compatibility fixes, database optimization, testing, and production deployment**.
+
+---
+
+## Industries
+
+**Retail** · **Manufacturing** · **E-commerce** · **HR** · **Construction**
+
+---
+
+## Engineering Focus
+
+I enjoy solving complex ERP and technical problems, particularly around:
+
+* ERP architecture and system design
+* Business process automation
+* Custom Odoo development
+* PostgreSQL performance optimization
+* Odoo migrations and upgrades
+* Third-party integrations
+* Linux server management
+* Docker-based deployments
+* Cloud infrastructure
+* Production troubleshooting and optimization
+
+---
+
+## Let's Connect
+
+I'm open to **remote Odoo opportunities, ERP consulting, technical leadership, and international projects**.
+
+<p>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Odoo · Python · PostgreSQL · Docker · Linux · Nginx · Cloud</b>
+  <br><br>
+  <sub>Design · Develop · Deploy · Scale</sub>
+</p>
