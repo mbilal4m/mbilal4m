@@ -59,8 +59,8 @@ I focus on building ERP systems that are practical, maintainable, and scalable. 
 
 ### 📫 Connect With Me
 
-* **LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/)
-* **GitHub:** [@your-github-username](https://github.com/)
+* **LinkedIn:** [Muhammad Bilal](https://www.linkedin.com/in/mbilal4m/)
+* **GitHub:** [@mbilal4m](https://github.com/mbilal4m)
 * **Open to:** Remote Odoo roles, consulting, and international opportunities
 
 ---
